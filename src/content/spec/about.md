@@ -1,9 +1,33 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# Hi, I'm Sora/Christine 🛸
 
-::github{repo="saicaca/fuwari"}
+Cybersecurity Analyst with a background in SOC, DFIR, and GRC.  
+I learn by doing — CTF challenges, blue team labs, and real-world casework.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+---
+
+## What I do
+
+- **Day job** — Cybersecurity Analyst, focusing on threat detection, incident response, and data privacy
+- **Side quest** — Part-time SOC Analyst at a B2B cybersecurity MSP
+- **After hours** — CTF player, writeup writer, eternal student
+
+---
+
+## Certifications & Tools
+
+- HTB CDSA
+- SIEM / Sentinel / Defender XDR
+- KAPE, Volatility, Sysreptor
+- OpenCTI, OneTrust, Vanta
+
+---
+
+## Get in touch
+
+> - LinkedIn: [your-linkedin](https://www.linkedin.com/in/thien-le-khac-nguyen/)
+> - GitHub: [soramaru412](https://github.com/soramaru412)
+> - Email: `nguyenthienlekhac@email.com`
+
+---
+
+*Finally, I painted it blue* ( •̀ ω •́ )✧
