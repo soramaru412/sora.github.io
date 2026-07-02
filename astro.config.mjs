@@ -1,3 +1,4 @@
+import pagefind from "astro-pagefind";
 import sitemap from "@astrojs/sitemap";
 import svelte from "@astrojs/svelte";
 import tailwind from "@astrojs/tailwind";
@@ -30,6 +31,7 @@ export default defineConfig({
 	base: "/",
 	trailingSlash: "always",
 	integrations: [
+		pagefind(),
 		tailwind({
 			nesting: true,
 		}),
